@@ -252,8 +252,8 @@
                 <Column editable="true" title="Nama Siswa" type="java.lang.String"/>
                 <Column editable="true" title="Kelas" type="java.lang.String"/>
                 <Column editable="true" title="Jurusan" type="java.lang.String"/>
-                <Column editable="true" title="Jumlah" type="java.lang.Integer"/>
                 <Column editable="true" title="Pembayaran" type="java.lang.String"/>
+                <Column editable="true" title="Jumlah" type="java.lang.Integer"/>
               </Table>
             </Property>
             <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">

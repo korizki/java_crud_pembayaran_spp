@@ -108,11 +108,11 @@ public class FormSPP extends javax.swing.JFrame {
                 {null, null, null, null, null, null}
             },
             new String [] {
-                "ID Siswa", "Nama Siswa", "Kelas", "Jurusan", "Jumlah", "Pembayaran"
+                "ID Siswa", "Nama Siswa", "Kelas", "Jurusan", "Pembayaran", "Jumlah"
             }
         ) {
             Class[] types = new Class [] {
-                java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.Integer.class, java.lang.String.class
+                java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.Integer.class
             };
 
             public Class getColumnClass(int columnIndex) {
